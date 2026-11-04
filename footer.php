@@ -1,0 +1,1 @@
+</main><footer>Campus Connect · College Event Management System</footer></body></html>
